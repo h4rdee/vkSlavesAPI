@@ -1,5 +1,5 @@
 # vkSlavesAPI
-API wrapper for VK app Slaves
+API wrapper for VK app Slaves <br>
 You can write complicated bots on top of that or use it to code some kind of stats tracker or whatever you want to do
 
 ### Sample usage:
