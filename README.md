@@ -47,3 +47,8 @@ setting given slave a job by slave ID, returns a dictionary with user info for t
 
 `buyFetterByID`:
 fetters given slave by slave ID, returns a dictionary with user info for this ID or an error string with error message
+
+
+### Known issues:
+`floodErr`: you have been banned for approx. 2 hours. Try to randomize and increase your delays. Don't call different API methods all at once
+`500` or `422`: try to update auth token
