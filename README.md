@@ -1,7 +1,7 @@
 # vkSlavesAPI
 API wrapper for VK app Slaves
 
-### Sample usage
+### Sample usage:
 ```python
 import random
 import time
