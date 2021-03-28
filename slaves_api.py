@@ -118,6 +118,6 @@ class SlavesAPI:
             'sec-fetch-mode': 'cors',
             'sec-fetch-site': 'cross-site',
             'origin': 'https://prod-app7794757-c1ffb3285f12.pages-ac.vk-apps.com',
-            'authorization': 'Bearer token'
+            'authorization': bearerToken
         }
         return
